@@ -1,3 +1,5 @@
+# https://practice.geeksforgeeks.org/problems/majority-element-1587115620/1/?page=1&category[]=Arrays&sortBy=submissions#
+
 def majorityElement(self, A, N):
     count = 0
     mE = 0
